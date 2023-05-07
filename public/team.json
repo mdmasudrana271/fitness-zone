@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "name": "SELENA KYLE",
+        "img": "https://i.ibb.co/NjLNCQq/team11.jpg",
+        "designation": "FITNESS INSTRUCTOR",
+        "Awards":"2",
+        "group": "Meditation, Yoga",
+        "Experience":"5+ years"
+    },
+    {
+        "id":"2",
+        "name": "JAMES DUNHALL",
+        "img": "https://i.ibb.co/sw968PW/team12.jpg",
+        "designation": "FITNESS INSTRUCTOR",
+        "Awards":"3",
+        "group": "Meditation, Yoga",
+        "Experience":"2+ years"
+    },
+    {
+        "id":"3",
+        "name": "ALICA MEADOW",
+        "img": "https://i.ibb.co/J3zZDC8/team13.jpg",
+        "designation": "FITNESS INSTRUCTOR",
+        "Awards":"5",
+        "group": "Meditation, Yoga",
+        "Experience":"6+ years"
+    },
+    {
+        "id":"4",
+        "name": "THOMAS PARK",
+        "img": "https://i.ibb.co/9TwpCMk/team14.jpg",
+        "designation": "FITNESS INSTRUCTOR",
+        "Awards":"4",
+        "group": "Meditation, Yoga",
+        "Experience":"4+ years"
+    }
+]

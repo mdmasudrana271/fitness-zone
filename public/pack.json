@@ -1,0 +1,35 @@
+[
+    {
+        "id":"1",
+        "pack": "MUSCLE BUILD PRO",
+        "duration": "1 Years",
+        "training": "1 yr training program",
+        "price": "89.99/",
+        "features1": "Lorem ipsum dolor sit",
+        "features2": "Praesent convallis nibh",
+        "features3": "Phasellus auctor augue",
+        "img": "https://i.ibb.co/pPSWDP5/product8-420x287.jpg"
+    },
+    {
+        "id":"2",
+        "pack": "WOMEN STRENGTH TRAINING",
+        "duration": "1 Months",
+        "training": "6 months training program",
+        "price": "49.99/",
+        "features1": "Lorem ipsum dolor sit",
+        "features2": "Praesent convallis nibh",
+        "features3": "Phasellus auctor augue",
+        "img": "https://i.ibb.co/WsG5zms/blog6-420x287.jpg"
+    },
+    {
+        "id":"3",
+        "pack": "FAT BURNING PRO",
+        "duration": "1 Months",
+        "training": "3 months training program",
+        "price": "29.99/",
+        "features1": "Lorem ipsum dolor sit",
+        "features2": "Praesent convallis nibh",
+        "features3": "Phasellus auctor augue",
+        "img": "https://i.ibb.co/sCc42mn/blog2-420x287.jpg"
+    }
+]

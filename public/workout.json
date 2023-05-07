@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "title": "DUMBBELL PRESS BRIDE AND BOSU",
+        "img": "https://i.ibb.co/p3s7vjn/blog6.jpg",
+        "group": "muscle, exercises",
+        "description": "Morbi pellentesque sagittis ante sed cursus. Donec et augue mattis, feugiat massa nec, convallis sem. Cras tortor augue, aliquet ac cursus vel, ultricies tempus."
+    },
+    {
+        "id":"2",
+        "title": "DUMBBELL MUSCLE FIT",
+        "img": "https://i.ibb.co/QNrSJmb/blog3-420x287.jpg",
+        "group": "muscle, exercises",
+        "description": "Morbi pellentesque sagittis ante sed cursus. Donec et augue mattis, feugiat massa nec, convallis sem. Cras tortor augue, aliquet ac cursus vel, ultricies tempus."
+    },
+    {
+        "id":"3",
+        "title": "STRECHES & CRUNCHES",
+        "img": "https://i.ibb.co/HzxnHDZ/Stretches-Crunches.jpg",
+        "group": "Abs, Core, Hip Flexors",
+        "description": "Morbi pellentesque sagittis ante sed cursus. Donec et augue mattis, feugiat massa nec, convallis sem. Cras tortor augue, aliquet ac cursus vel, ultricies tempus."
+    }
+]
